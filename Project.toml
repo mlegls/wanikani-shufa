@@ -1,4 +1,6 @@
 [deps]
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
 DotEnv = "4dc1fcf4-5e3b-5448-94ab-0c38ec0385c1"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
